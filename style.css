@@ -83,13 +83,6 @@ body {
   color: hsl(5, 85%, 63%);
 }
 
-.header .menu-button button {
-  background: transparent;
-  outline: none;
-  border: none;
-  cursor: pointer;
-}
-
 .showcase {
   padding: 1.25rem;
   padding-top: 0;
